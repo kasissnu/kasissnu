@@ -62,5 +62,4 @@ Backend: [edipik_backend](https://github.com/kasissnu/edipik_backend)
 ## 🤝 Connect with me
 
 - GitHub: [@kasissnu](https://github.com/kasissnu)
-- Email: kasissnu@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kasissnu-ssinha/ 
