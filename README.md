@@ -77,5 +77,4 @@ Repo: [quiz-portal](https://github.com/kasissnu/quiz-portal)
 
 - GitHub: [@kasissnu](https://github.com/kasissnu)
 - Email: kasissnu@gmail.com
-- LinkedIn: Add your LinkedIn link here
-- Portfolio: Add your portfolio link here
+- LinkedIn: https://www.linkedin.com/in/kasissnu-ssinha/ 
