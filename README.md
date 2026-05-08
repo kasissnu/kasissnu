@@ -30,42 +30,28 @@ Machine Learning, system design, cloud deployment, and backend scalability
 
 ## 📌 Featured Projects
 
-### 🧠 Alzheimer Detection / Analysis
-A project focused on exploring technology-assisted solutions related to Alzheimer’s disease.
+### 🚀 Grayd
+A backend-focused project designed around scalable application architecture and real-world product workflows.
 
-**Tech focus:** AI/ML, healthcare, data-driven development  
+**Tech focus:** Backend development, APIs, database design, application architecture  
+Repo: [grayd_backend](https://github.com/kasissnu/grayd_backend)
+
+---
+
+### 🧠 Memora — AR-Based Cognitive Assistive Platform
+An assistive platform concept for early-stage Alzheimer’s patients using facial recognition, age-progression tolerance, lifelong learning, and voice-based NLP prompts.
+
+**Tech focus:** AI/ML, healthcare technology, assistive systems  
 Repo: [alzheimer](https://github.com/kasissnu/alzheimer)
 
 ---
 
-### 🎓 PESU Portal
-A web project related to student/academic workflows.
+### 🎨 Edipik — AI Photo Editing Platform
+A full-stack AI-powered photo editing project with separate frontend and backend services.
 
-**Tech focus:** Web development, frontend/backend integration  
-Repo: [pesu-portal](https://github.com/kasissnu/pesu-portal)
-
----
-
-### 🧩 Edipik
-A full-stack project with separate frontend and backend repositories.
-
-**Tech focus:** Full-stack development, APIs, application architecture  
+**Tech focus:** Full-stack development, AI tools, REST APIs, frontend/backend integration  
 Frontend: [edipik_frontend](https://github.com/kasissnu/edipik_frontend)  
 Backend: [edipik_backend](https://github.com/kasissnu/edipik_backend)
-
----
-
-### 📝 Quiz Portal
-A project for creating or managing quizzes.
-
-**Tech focus:** Web apps, user interaction, application logic  
-Repo: [quiz-portal](https://github.com/kasissnu/quiz-portal)
-
-## 📚 Academic & Systems Work
-
-- [CN](https://github.com/kasissnu/CN) — Computer Networks related work
-- [OS-Jackfruit](https://github.com/kasissnu/OS-Jackfruit) — Operating Systems project/work
-- [PES1UG24AM130-pes-vcs](https://github.com/kasissnu/PES1UG24AM130-pes-vcs) — Version control / coursework repository
 
 ## 📈 GitHub Stats
 
