@@ -2,14 +2,14 @@
 
 I'm a developer building AI-powered products, RAG systems, full-stack web apps, and backend platforms.
 
-## 🔥 Highlights
+## Highlights
 
 - Built **Grayd**, a FastAPI-based RAG backend for an AI learning platform
 - Built **Edipik**, a full-stack AI photo editing platform with React and Django REST
 - Designed **Memora**, an AR-based cognitive assistive concept for Alzheimer’s support
 - Experienced with AI integrations, vector databases, async workers, WebSockets, and cloud storage
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 Python, JavaScript, C/C++, Java
